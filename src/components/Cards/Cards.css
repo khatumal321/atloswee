@@ -1,0 +1,19 @@
+.main{
+   height: 440px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.img{
+    width: 50%;
+    /* float: left; */
+    position: absolute;
+}
+
+.rightcard{
+    background-color: transparent;
+    color: white;
+    border: 5px solid gray;
+}
+
+
+

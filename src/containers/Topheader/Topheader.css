@@ -1,0 +1,29 @@
+#top-header{
+    background-color: #330066;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    padding-bottom: 5px;
+    margin-left: 65%;
+}
+span{
+    color: white;
+}
+span a{
+    color: white;
+    padding-top: 2%;
+    font-weight: 600;
+}
+
+span a:hover{
+    color: white;
+    text-decoration: none;
+}
+.fb{
+    height: 16px;
+    width: 16px;
+}
+

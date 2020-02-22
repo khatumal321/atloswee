@@ -1,0 +1,53 @@
+.main2{
+    height: 440px;
+    margin-left: 10%;
+    width: 90%;
+    padding: 10px;
+    margin: 0 auto;
+}
+.img2{
+    margin-left: -22%;
+    width: 50%;
+    /* float: left; */
+    position: absolute;
+}
+
+.rightcard2{
+    width: 40%;
+    float: left;
+    margin-right: 15%;
+    position: relative;
+    background-color: white;
+    margin-top: 100px;
+
+}
+
+/* @media screen and (max-width: 1200px) {
+    .img{
+        width: 100%;
+          position: none;
+          float: none;
+    }
+    .rightcard{
+        width: 100%;
+        float: none;
+        margin-right: 0px;
+        position: none;
+        background-color: white;
+        margin-top: 0px;
+    
+    }
+} */
+
+.mobile{
+    display: none;
+}
+
+@media screen and (max-width: 980px) {
+    .main2{
+display: none;
+    }
+ .mobile{
+display: block;
+ }
+}
